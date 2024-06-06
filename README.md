@@ -70,6 +70,7 @@
 # String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/changminkangkk/leet-code/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/changminkangkk/leet-code/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/changminkangkk/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
