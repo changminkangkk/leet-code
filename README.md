@@ -27,3 +27,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
+# Math
+|  |
+| ------- |
+| [2238-a-number-after-a-double-reversal](https://github.com/changminkangkk/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
