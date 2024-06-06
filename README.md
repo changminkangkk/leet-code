@@ -23,6 +23,7 @@
 # Hash Table
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 # Simulation
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/changminkangkk/leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 # Linked List
 |  |
 | ------- |
@@ -58,4 +60,5 @@
 # String Matching
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
