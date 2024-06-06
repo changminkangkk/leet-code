@@ -7,6 +7,7 @@
 | ------- |
 | [1241-decompress-run-length-encoded-list](https://github.com/changminkangkk/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Hash Table
 |  |
@@ -56,3 +57,7 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
+# String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
