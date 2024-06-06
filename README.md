@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2812-find-the-maximum-achievable-number](https://github.com/changminkangkk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/changminkangkk/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Array
@@ -20,6 +21,7 @@
 | ------- |
 | [1580-shuffle-the-array](https://github.com/changminkangkk/leet-code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/changminkangkk/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/changminkangkk/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/changminkangkk/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -49,3 +51,19 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/changminkangkk/leet-code/tree/master/1708-design-parking-system) |
+# Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
