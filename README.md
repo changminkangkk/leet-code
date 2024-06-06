@@ -8,6 +8,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/changminkangkk/leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/changminkangkk/leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/changminkangkk/leet-code/tree/master/1954-replace-all-digits-with-characters) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3312-number-of-changing-keys](https://github.com/changminkangkk/leet-code/tree/master/3312-number-of-changing-keys) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/changminkangkk/leet-code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/changminkangkk/leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2639-separate-the-digits-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -53,3 +55,7 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/changminkangkk/leet-code/tree/master/0908-middle-of-the-linked-list) |
+# String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
