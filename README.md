@@ -21,12 +21,14 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/changminkangkk/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 # Hash Table
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/changminkangkk/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 # Simulation
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/changminkangkk/leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/changminkangkk/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
+| [3227-find-missing-and-repeated-values](https://github.com/changminkangkk/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 # Greedy
 |  |
 | ------- |
@@ -77,3 +80,7 @@
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
+# Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/changminkangkk/leet-code/tree/master/3227-find-missing-and-repeated-values) |
