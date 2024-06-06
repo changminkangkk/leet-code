@@ -34,6 +34,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/changminkangkk/leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/changminkangkk/leet-code/tree/master/1806-count-of-matches-in-tournament) |
+| [2571-find-the-pivot-integer](https://github.com/changminkangkk/leet-code/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/changminkangkk/leet-code/tree/master/2752-sum-multiples) |
 # Bit Manipulation
 |  |
@@ -80,3 +81,7 @@
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
+# Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/changminkangkk/leet-code/tree/master/2571-find-the-pivot-integer) |
