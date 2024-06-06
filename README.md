@@ -5,6 +5,7 @@
 # String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/changminkangkk/leet-code/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/changminkangkk/leet-code/tree/master/3379-score-of-a-string) |
 # Math
 |  |
