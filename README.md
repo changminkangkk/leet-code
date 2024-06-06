@@ -28,6 +28,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/changminkangkk/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/changminkangkk/leet-code/tree/master/1806-count-of-matches-in-tournament) |
+| [2752-sum-multiples](https://github.com/changminkangkk/leet-code/tree/master/2752-sum-multiples) |
 # Bit Manipulation
 |  |
 | ------- |
