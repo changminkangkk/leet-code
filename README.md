@@ -20,11 +20,13 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
 # Hash Table
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
 # Simulation
 |  |
 | ------- |
@@ -62,3 +64,15 @@
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
+# Bit Manipulation
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
+# Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
+# Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
