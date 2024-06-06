@@ -8,6 +8,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/changminkangkk/leet-code/tree/master/1954-replace-all-digits-with-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3312-number-of-changing-keys](https://github.com/changminkangkk/leet-code/tree/master/3312-number-of-changing-keys) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/changminkangkk/leet-code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/changminkangkk/leet-code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Enumeration
 |  |
 | ------- |
