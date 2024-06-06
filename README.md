@@ -34,6 +34,7 @@
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/changminkangkk/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/changminkangkk/leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/changminkangkk/leet-code/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/changminkangkk/leet-code/tree/master/1806-count-of-matches-in-tournament) |
 | [2571-find-the-pivot-integer](https://github.com/changminkangkk/leet-code/tree/master/2571-find-the-pivot-integer) |
@@ -110,3 +111,7 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/changminkangkk/leet-code/tree/master/1677-matrix-diagonal-sum) |
+# Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/changminkangkk/leet-code/tree/master/1448-maximum-69-number) |
