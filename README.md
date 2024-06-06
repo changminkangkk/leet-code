@@ -5,6 +5,7 @@
 # Array
 |  |
 | ------- |
+| [1241-decompress-run-length-encoded-list](https://github.com/changminkangkk/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Hash Table
 |  |
