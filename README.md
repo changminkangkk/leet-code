@@ -18,3 +18,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+# Math
+|  |
+| ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/changminkangkk/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
