@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/changminkangkk/leet-code/tree/master/1806-count-of-matches-in-tournament) |
+| [2886-faulty-keyboard](https://github.com/changminkangkk/leet-code/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Heap (Priority Queue)
 |  |
@@ -74,6 +75,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
 | [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
+| [2886-faulty-keyboard](https://github.com/changminkangkk/leet-code/tree/master/2886-faulty-keyboard) |
 # Two Pointers
 |  |
 | ------- |
