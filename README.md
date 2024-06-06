@@ -5,6 +5,7 @@
 # String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/changminkangkk/leet-code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/changminkangkk/leet-code/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/changminkangkk/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/changminkangkk/leet-code/tree/master/3379-score-of-a-string) |
@@ -29,6 +30,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/changminkangkk/leet-code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
