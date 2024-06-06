@@ -13,6 +13,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/changminkangkk/leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Hash Table
 |  |
@@ -119,3 +120,4 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/changminkangkk/leet-code/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/changminkangkk/leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
