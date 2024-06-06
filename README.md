@@ -23,6 +23,7 @@
 | [2048-build-array-from-permutation](https://github.com/changminkangkk/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/changminkangkk/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/changminkangkk/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/changminkangkk/leet-code/tree/master/2454-largest-local-values-in-a-matrix) |
 # Simulation
 |  |
 | ------- |
@@ -38,3 +39,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
+# Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/changminkangkk/leet-code/tree/master/2454-largest-local-values-in-a-matrix) |
