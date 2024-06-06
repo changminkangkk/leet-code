@@ -22,3 +22,8 @@
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/changminkangkk/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/1610-xor-operation-in-an-array) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/changminkangkk/leet-code/tree/master/1610-xor-operation-in-an-array) |
