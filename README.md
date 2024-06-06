@@ -68,6 +68,7 @@
 # String Matching
 |  |
 | ------- |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/changminkangkk/leet-code/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/changminkangkk/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/changminkangkk/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 # Bit Manipulation
