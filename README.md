@@ -15,6 +15,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/changminkangkk/leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/changminkangkk/leet-code/tree/master/3397-find-the-integer-added-to-array-i) |
 # Hash Table
 |  |
 | ------- |
