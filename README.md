@@ -90,3 +90,7 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/changminkangkk/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/changminkangkk/leet-code/tree/master/1916-find-center-of-star-graph) |
