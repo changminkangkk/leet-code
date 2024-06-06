@@ -67,6 +67,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/changminkangkk/leet-code/tree/master/0461-hamming-distance) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/changminkangkk/leet-code/tree/master/3193-maximum-strong-pair-xor-i) |
 # Trie
 |  |
