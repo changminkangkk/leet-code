@@ -22,6 +22,7 @@
 | ------- |
 | [1580-shuffle-the-array](https://github.com/changminkangkk/leet-code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/changminkangkk/leet-code/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/changminkangkk/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/changminkangkk/leet-code/tree/master/2058-concatenation-of-array) |
@@ -72,3 +73,7 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/changminkangkk/leet-code/tree/master/2491-smallest-even-multiple) |
+# Sorting
+|  |
+| ------- |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/changminkangkk/leet-code/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
