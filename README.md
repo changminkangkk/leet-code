@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/changminkangkk/leet-code/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/changminkangkk/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
 | [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
@@ -85,3 +86,7 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/changminkangkk/leet-code/tree/master/2571-find-the-pivot-integer) |
+# Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/changminkangkk/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
