@@ -14,6 +14,7 @@
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2491-smallest-even-multiple](https://github.com/changminkangkk/leet-code/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/changminkangkk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/changminkangkk/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Array
@@ -67,3 +68,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/changminkangkk/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/changminkangkk/leet-code/tree/master/2491-smallest-even-multiple) |
