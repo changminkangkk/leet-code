@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/changminkangkk/leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/changminkangkk/leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/changminkangkk/leet-code/tree/master/1954-replace-all-digits-with-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3312-number-of-changing-keys](https://github.com/changminkangkk/leet-code/tree/master/3312-number-of-changing-keys) |
@@ -34,6 +35,7 @@
 # Math
 |  |
 | ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/changminkangkk/leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/changminkangkk/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
 # Greedy
 |  |
