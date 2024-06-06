@@ -90,11 +90,13 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/changminkangkk/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2401-count-asterisks](https://github.com/changminkangkk/leet-code/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/changminkangkk/leet-code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/changminkangkk/leet-code/tree/master/2886-faulty-keyboard) |
 # Two Pointers
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/changminkangkk/leet-code/tree/master/2816-lexicographically-smallest-palindrome) |
 # Enumeration
 |  |
 | ------- |
@@ -122,3 +124,4 @@
 | [1448-maximum-69-number](https://github.com/changminkangkk/leet-code/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/changminkangkk/leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/changminkangkk/leet-code/tree/master/2816-lexicographically-smallest-palindrome) |
