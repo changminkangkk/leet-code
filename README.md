@@ -20,6 +20,7 @@
 # Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/changminkangkk/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/changminkangkk/leet-code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/changminkangkk/leet-code/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
