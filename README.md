@@ -8,6 +8,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/changminkangkk/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/changminkangkk/leet-code/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/changminkangkk/leet-code/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/changminkangkk/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
@@ -100,6 +101,7 @@
 # Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/changminkangkk/leet-code/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
 # Prefix Sum
 |  |
