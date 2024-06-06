@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/changminkangkk/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
 # Sorting
@@ -75,6 +76,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/changminkangkk/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/changminkangkk/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
 | [2886-faulty-keyboard](https://github.com/changminkangkk/leet-code/tree/master/2886-faulty-keyboard) |
 # Two Pointers
