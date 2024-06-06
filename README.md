@@ -7,6 +7,7 @@
 | ------- |
 | [1241-decompress-run-length-encoded-list](https://github.com/changminkangkk/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Counting
 |  |
 | ------- |
@@ -49,3 +51,8 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/changminkangkk/leet-code/tree/master/1806-count-of-matches-in-tournament) |
+| [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
