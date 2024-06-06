@@ -11,6 +11,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/changminkangkk/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2442-number-of-arithmetic-triplets](https://github.com/changminkangkk/leet-code/tree/master/2442-number-of-arithmetic-triplets) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Hash Table
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/changminkangkk/leet-code/tree/master/3226-minimum-number-game) |
 # Counting
 |  |
@@ -115,3 +117,4 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/changminkangkk/leet-code/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/changminkangkk/leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
