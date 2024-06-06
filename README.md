@@ -10,6 +10,7 @@
 # Array
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
 # Hash Table
 |  |
@@ -19,3 +20,7 @@
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/changminkangkk/leet-code/tree/master/2847-find-maximum-number-of-string-pairs) |
+# Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/changminkangkk/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
