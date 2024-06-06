@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/changminkangkk/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
 # Sorting
 |  |
 | ------- |
@@ -68,3 +69,4 @@
 | [1651-shuffle-string](https://github.com/changminkangkk/leet-code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/changminkangkk/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/changminkangkk/leet-code/tree/master/1899-count-items-matching-a-rule) |
+| [2406-decode-the-message](https://github.com/changminkangkk/leet-code/tree/master/2406-decode-the-message) |
