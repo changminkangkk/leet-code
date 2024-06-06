@@ -11,10 +11,12 @@
 # Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/changminkangkk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 # Array
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/changminkangkk/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/changminkangkk/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/changminkangkk/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -24,3 +26,11 @@
 | [2048-build-array-from-permutation](https://github.com/changminkangkk/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/changminkangkk/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/changminkangkk/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+# Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
+# Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/changminkangkk/leet-code/tree/master/1635-number-of-good-pairs) |
